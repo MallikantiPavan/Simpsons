@@ -1,0 +1,14 @@
+tensorflow>=2.10
+numpy
+opencv-python
+caer
+git+https://github.com/jasmcaus/canaro.git
+matplotlib
+joblib
+fastapi
+uvicorn[standard]
+streamlit
+requests
+Pillow
+scipy
+python-multipart
