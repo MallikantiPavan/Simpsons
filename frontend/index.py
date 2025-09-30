@@ -2,7 +2,7 @@ import streamlit as st
 import requests
 from PIL import Image
 
-url = "http://127.0.0.1:8000/predict"
+url = "https://binnyman-simp.hf.space/classify"
 
 st.title("Simpsons")
 
