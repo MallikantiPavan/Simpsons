@@ -18,7 +18,8 @@ Titanic_ship/
 │   ├── requirements.txt    # Dependencies for backend
 │   ├── start.sh            # Startup script
 |   ├── simpsons_model.h5   
-│   ├── labels.pkl   
+│   ├── labels.pkl
+|   ├── Dockerfile   
 │   └── train.py            # Model training script
 ├── frontend/
     ├── index.py            # Streamlit app
