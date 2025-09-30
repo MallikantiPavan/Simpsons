@@ -9,7 +9,25 @@ It consists of:
 * 🧠 **Model Training:** OpenCV + Caer + Canaro (Keras/TensorFlow)
 
 ---
+## 🗂️ Project Structure
 
+```text
+Titanic_ship/
+├── backend/
+│   ├── main.py             # FastAPI app (API endpoints)
+│   ├── requirements.txt    # Dependencies for backend
+│   ├── start.sh            # Startup script
+|   ├── simpsons_model.h5   
+│   ├── labels.pkl   
+│   └── train.py            # Model training script
+├── frontend/
+    ├── index.py            # Streamlit app
+    └── requirements.txt    # Dependencies for frontend
+
+```
+
+<h3>📊 Screenshots</h3>
+<p align="center"> <img src="./screenshots/backend.png" alt="FastAPI Docs" width="45%" /> <img src="./screenshots/frontend1.png" alt="Streamlit UI" width="45%" /> </p>
 ## 🚀 How it Works
 
 1. A **Convolutional Neural Network** is trained on the Simpsons dataset.
