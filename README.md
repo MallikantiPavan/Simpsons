@@ -28,7 +28,7 @@ Titanic_ship/
 ```
 
 <h3>📊 Screenshots</h3>
-<p align="center"> <img src="./screenshots/backend.png" alt="FastAPI Docs" width="45%" /> <img src="./screenshots/frontend1.png" alt="Streamlit UI" width="45%" /> </p>
+<p align="center"> <img src="./screenshots/backend.png" alt="FastAPI Docs" width="45%" /> <img src="./screenshots/frontend.png" alt="Streamlit UI" width="45%" /> </p>
 ## 🚀 How it Works
 
 1. A **Convolutional Neural Network** is trained on the Simpsons dataset.
